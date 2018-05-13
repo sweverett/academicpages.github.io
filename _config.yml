@@ -14,7 +14,7 @@ description              : &description "Physics PhD student at the University o
 url                      : https://sweverett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sweverett/sweverett.github.io"
-teaser                   : "ctio_ledge_crop.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -80,13 +80,14 @@ analytics:
 author:
   name             : "Spencer Everett"
   avatar           : "ctio_ledge_crop.png"
-  bio              : "PhD student at the University of California, Santa Cruz. I spend my time researching galaxy clusters and characterizing the selection function for the Dark Energy Survey (DES)."
+  bio              : "PhD student at the University of California, Santa Cruz. Interested in physics, astronomy, and data science. Member of the Dark Energy Survey (DES. 
+I spend my time researching galaxy clusters and characterizing the selection function for the Dark Energy Survey (DES)."
   location         : "Santa Cruz, California"
   employer         : "University of California, Santa Cruz"
   googlescholar    : "https://scholar.google.com/citations?user=IUXmCNcAAAAJ&hl=en"
   email            : "sweveret@ucsc.edu"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/spencerweverett/"
   codepen          :
   dribbble         :
   flickr           :

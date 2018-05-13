@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Physics 5A - Lab TA"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Lab"
+venue: "UC Santa Cruz, Physics"
+date: Fall Quarter 2016
+location: "Santa Cruz, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introductory physics course for majors. Newtonian mechanics and error analysis.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
