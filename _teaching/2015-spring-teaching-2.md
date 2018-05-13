@@ -3,7 +3,7 @@ title: "Physics 5A - Lab TA"
 collection: teaching
 type: "Undergraduate Lab"
 venue: "UC Santa Cruz, Physics"
-date: Fall Quarter 2016
+date: 2016-09-01
 location: "Santa Cruz, CA"
 ---
 
