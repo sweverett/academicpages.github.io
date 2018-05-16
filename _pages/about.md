@@ -12,8 +12,6 @@ redirect_from:
 
 I am a graduate student studying physics and astronomy at the University of California, Santa Cruz under my advisor [Tesla Jeltema](http://scipp.ucsc.edu/~tesla/). My main interests are in observational cosmology - the study of the structure, evolution, and origin of the universe by sticking a big camera on an even larger telescope and looking up!
 
-![test](../images/ctio_ledge_crop.png)
-
 I am a member of the [Dark Energy Survey](https://www.darkenergysurvey.org/) (DES), an international collaboration of hundreds of scientists investigating the dynamics and large-scale structure of the universe using multiple observationalprobes. We do this by taking hundreds of thousands of images of the Southern sky at the 4-meter Victor Blanco Telescope at [Cerro Tololo Inter-American Observatory (CTIO)](http://www.ctio.noao.edu/noao/) in central Chile. Check out our newest [publications here](https://www.darkenergysurvey.org/news-and-results/publications/)!
 
 I spend most of my time building statistical models and running large simulations to understand how subtle systematics affect our cosmological results. Check out my work on [Balrog](https://github.com/sweverett/Balrog-GalSim), an image simulation tool that characterizes measurement biases by injecting an ensemble of fake objects into real images. Lately I've been working on a new DES [clusters cosmology pipeline](https://bitbucket.org/mpaterno/y3_cluster_cpp/) that quickly evalutates millions of high-dimensional integration samples using [CosmoSIS](https://bitbucket.org/joezuntz/cosmosis/wiki/Home). Or take a look at my [github account](https://github.com/sweverett) for all my latest projects!
