@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![galaxy_cluster](../images/galaxy_cluster_cropped.jpg)
+![galaxy_cluster](galaxy_cluster_cropped.jpg)
 
 I am a graduate student studying physics and astronomy at the University of California, Santa Cruz under my advisor [Tesla Jeltema](http://scipp.ucsc.edu/~tesla/). My main interests are in observational cosmology - the study of the structure, evolution, and origin of the universe by sticking a big camera on an even larger telescope and looking up!
 
