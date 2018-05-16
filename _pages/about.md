@@ -12,7 +12,7 @@ redirect_from:
 
 I am a graduate student studying physics and astronomy at the University of California, Santa Cruz under my advisor [Tesla Jeltema](http://scipp.ucsc.edu/~tesla/). My main interests are in observational cosmology - the study of the structure, evolution, and origin of the universe by sticking a big camera on an even larger telescope and looking up!
 
-![test](/home/spencer/Documents/sweverett.github.io/images/ctio_ledge_crop.png)
+![test](../images/ctio_ledge_crop.png)
 
 I am a member of the [Dark Energy Survey](https://www.darkenergysurvey.org/) (DES), an international collaboration of hundreds of scientists investigating the dynamics and large-scale structure of the universe using multiple observationalprobes. We do this by taking hundreds of thousands of images of the Southern sky at the 4-meter Victor Blanco Telescope at [Cerro Tololo Inter-American Observatory (CTIO)](http://www.ctio.noao.edu/noao/) in central Chile. Check out our newest [publications here](https://www.darkenergysurvey.org/news-and-results/publications/)!
 
